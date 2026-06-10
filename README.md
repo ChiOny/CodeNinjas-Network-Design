@@ -21,6 +21,10 @@ The project demonstrates practical networking skills including VLAN segmentation
 * WAN-style connectivity through an ISP router
 * Security-focused network design
 
+## Network Topology
+
+![Code Ninjas Network Topology](Screenshot%202026-06-10%20192537.png)
+
 ## Network Architecture
 
 ### Internal Networks
