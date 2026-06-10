@@ -23,7 +23,7 @@ The project demonstrates practical networking skills including VLAN segmentation
 
 ## Network Topology
 
-![Code Ninjas Network Topology](Screenshot%202026-06-10%20192537.png)
+![Code Ninjas Network Topology](network-topology.png)
 
 ## Network Architecture
 
